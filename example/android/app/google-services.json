@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476967247596",
+    "project_id": "notification-demo-1ca6c",
+    "storage_bucket": "notification-demo-1ca6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476967247596:android:ce2daa9f5f96d7aba20fc9",
+        "android_client_info": {
+          "package_name": "me.carda.awesome_notifications_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476967247596-1lrdlq95uh3mjad95u64409ic8tjdu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQfK25bCE26ZumeSna7_cEIJqeDvkRyWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476967247596-1lrdlq95uh3mjad95u64409ic8tjdu96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
